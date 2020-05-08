@@ -1,0 +1,21 @@
+Package: gsvcm
+Type: Package
+Title: Generalized Spatially Varying Coefficient Models
+Version: 0.1.0
+Author: Kim, Myungjin and Wang, Li.
+Maintainer: Kim, Myungjin <mjkim@iastate.edu>
+Depends:
+    MGLM,
+    mgcv,
+    Triangulation,
+    BPST,
+    graphics,
+    stats,
+    MASS,
+    plot3D,
+    R (>= 2.10)
+Description: Generalized Spatially Varying Coefficient Models.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
